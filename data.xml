@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<Beacon>
+
+<distance id="1001">
+<rssi>0</rssi>
+<txPower>1</txPower>
+</distance>
+
+
+<distance id="1002">
+<rssi>0</rssi>
+<txPower>0</txPower>
+</distance>
+
+<distance id="1003">
+<rssi>2</rssi>
+<txPower>4</txPower>
+</distance>
+
+<distance id="1004">
+<rssi>5</rssi>
+<txPower>24</txPower>
+</distance>
+
+<distance id="1005">
+<rssi>7</rssi>
+<txPower>22</txPower>
+</distance>
+
+<distance id="1006">
+<rssi>39</rssi>
+<txPower>10</txPower>
+</distance>
+
+<distance id="1007">
+<rssi>10</rssi>
+<txPower>27</txPower>
+</distance>
+
+<distance id="1008">
+<rssi>76</rssi>
+<txPower>56</txPower>
+</distance>
+
+<distance id="1009">
+<rssi>54</rssi>
+<txPower>21</txPower>
+</distance>
+
+<distance id="1010">
+<rssi>10</rssi>
+<txPower>16</txPower>
+</distance>
+
+</Beacon>
